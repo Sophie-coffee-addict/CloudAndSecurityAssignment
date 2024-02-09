@@ -6,7 +6,7 @@ public class DatabaseConnection {
 
     private static final String URL = "jdbc:mysql://security-db.cypcdqzpxlhm.ap-southeast-2.rds.amazonaws.com:3306/CloudSecurity";
     private static final String USER = "root";
-    private static final String PASSWORD = "bBX&*5iRiLjpkX#";
+    private static final String PASSWORD = "xxxxxx";
 
     public static Connection getConnection() throws SQLException {
         try {
